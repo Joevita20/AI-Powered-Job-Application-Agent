@@ -1,6 +1,6 @@
 # AI-Powered Job Application Agent — Project Management Case Study
 
-**Course:** Project Management **
+**Course:** Project Management
 ---
 
 ## Overview
